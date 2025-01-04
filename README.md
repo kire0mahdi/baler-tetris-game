@@ -46,9 +46,3 @@ This is a simple implementation of the classic Tetris game built using Python an
 - Python 3.7 or higher
 - Pygame library
 
-## Screenshots
-*(Add some screenshots of your game in action here)*
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
