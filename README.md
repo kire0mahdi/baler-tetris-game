@@ -25,11 +25,11 @@ This is a simple implementation of the classic Tetris game built using Python an
    ```
 3. Download or clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/kire0mahdi/baler-tetris-game.git
    ```
 4. Navigate to the project directory:
    ```bash
-   cd yourrepository
+   cd baler-tetris-game
    ```
 5. Run the game:
    ```bash
