@@ -33,7 +33,7 @@ This is a simple implementation of the classic Tetris game built using Python an
    ```
 5. Run the game:
    ```bash
-   python tetris.py
+   python baler-game.py
    ```
 
 ## How to Play
